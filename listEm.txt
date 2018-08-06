@@ -1,0 +1,15 @@
+total 88
+-rwxrwxrwx 1 bgangioni bgangioni 8728 Jul 30 18:02 a.out
+-rw-rw-rw- 1 bgangioni bgangioni  152 Jul 31 10:21 arraytest.c
+-rwxrwxrwx 1 bgangioni bgangioni 8648 Jul 31 10:21 atest
+-rwxrwxrwx 1 bgangioni bgangioni 8752 Jul 30 15:38 example2
+-rw-rw-rw- 1 bgangioni bgangioni  171 Jul 30 15:36 example2.c
+-rwxrwxrwx 1 bgangioni bgangioni 8696 Jul 30 17:20 forlop
+-rw-rw-rw- 1 bgangioni bgangioni  108 Jul 30 17:20 forlop.c
+-rwxrwxrwx 1 bgangioni bgangioni 8696 Jul 30 15:10 hellow
+-rw-rw-rw- 1 bgangioni bgangioni   85 Jul 30 15:10 hellow.c
+-rw-rw-rw- 1 bgangioni bgangioni    0 Aug  3 12:09 listEm.txt
+-rwxrwxrwx 1 bgangioni bgangioni 8728 Aug  3 11:59 multy
+-rwxrwxrwx 1 bgangioni bgangioni 8696 Jul 30 19:40 switchcase
+-rw-rw-rw- 1 bgangioni bgangioni  237 Jul 30 19:40 switchcase.c
+-rw-rw-rw- 1 bgangioni bgangioni  121 Aug  3 12:01 testmulti.c
