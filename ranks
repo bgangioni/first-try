@@ -1,0 +1,27 @@
+available ranks
+
+·· private
+-- corporal
+== sargent
+
+·> specialist
+·>> commander
+·>>> first subofficer
+
+·| officer
+:| lieutenant
+|| captain
+
+(*> major
+(*>> lieutenant colonel
+(*>>> colonel
+
+ * brigadier general
+·*· major general
+\*/ lieutenant general
+"*" general
+=*= general of the army
+
+
+
+
